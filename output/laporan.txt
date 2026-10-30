@@ -1,0 +1,8 @@
+=== LAPORAN HASIL ANALISIS NILAI MATEMATIKA ===
+Batas KKM           : 75
+Total Siswa Valid   : 6
+Rata-rata Kelas     : 77.50
+Nilai Tertinggi     : 100.0
+Nilai Terendah      : 45.0
+Jumlah Siswa Tuntas : 4
+===============================================
